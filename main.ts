@@ -1,6 +1,6 @@
 // 보내주는 export 방식에 따라 {}을 사용한다.
 // {} 모듈에서 export 한 것 중에 원하는 것을 가져온다.
-// export default로 정의한 모듈은 {}안쓰고 가져올 수 있다.11
+// export default로 정의한 모듈은 {}안쓰고 가져올 수 있다.
 import a, {IUser, k} from './interface';
 
 //타입 number
